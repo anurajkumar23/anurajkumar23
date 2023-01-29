@@ -9,7 +9,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anurajkumar23&label=Profile%20views&color=0e75b6&style=flat" alt="anurajkumar23" /> </p>
 <div align="center">
-  <img src="![image](https://user-images.githubusercontent.com/102934270/215352486-ce31b342-f47c-4b71-ba08-c25a3a126956.png)" width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/102934270/215352486-ce31b342-f47c-4b71-ba08-c25a3a126956.png" width="600" height="300"/>
 </div>
 
 - 🌱 I’m currently learning **Machine Learning, Python**
