@@ -30,7 +30,8 @@
 - ⚡ Fun fact **I think I am Funny😅**</h5>
 
 
-<h3 align="center">Connect with me:<p align="center">
+<h3 align="left">Connect with me:
+  <p align="center">
 <a href="https://twitter.com/anurajkumar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anurajkumar23" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anurajkumar-software-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurajkumar-software-developer" height="30" width="40" /></a>
 <a href="https://codesandbox.com/anurajkumar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="anurajkumar23" height="30" width="40" /></a>
