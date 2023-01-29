@@ -1,7 +1,7 @@
-### Hi there 👋
+
 <h1 align="center">Hey,There I'm ANURAJ KUMAR
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack Web developer from India</h3>
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/YuKbGGIYMXemhnub3q/200w.webp?cid=ecf05e47pc3uz7hutz9rj3cdeps3s8gn4ktfs74486g2kmyj&rid=200w.webp&ct=s" width="150"/>
@@ -13,7 +13,7 @@
 </div>
 
  <h1 align="center">:man_technologist:About Me :</h1>
-<h5 align="center">🧑‍💻I am a FULL STACK Web  Developer and competititve programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h5>
+<h5 align="center">🧑‍💻I am a FULL STACK Web Developer and competititve programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h5>
   
 - :telescope: I'm sophomore at university institute of technology,THE UNIVERSITY OF BURDWAN. and I'm currently Learning Coding And web Devlopment.
   
