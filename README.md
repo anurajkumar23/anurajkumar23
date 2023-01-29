@@ -14,9 +14,13 @@
 
  <h1 align="center">About Me :</h1>
 <h3 align="center">🧑‍💻I am a FULL STACK Web  Developer and competititve programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  
 - :telescope: I'm sophomore at university institute of technology,THE UNIVERSITY OF BURDWAN. and I'm currently Learning Coding And web Devlopment.
-- :seedling: I’m interested in Competitive Coding, Web Devlopment, Machine Learning and Cloud computing and recent technologies
+  
+- :seedling: I’m interested in Competitive Coding, Web Devlopment, Machine Learning and Cloud computing and recent technologies.
+  
 - 📚 In my free time, I do courses to upgrade my skills and earn certifications & swags.
+  
 - :mailbox:How to reach me: anurajkumar6294@gmail.com
 
 - 🌱 I’m currently learning **Machine Learning, Python**
