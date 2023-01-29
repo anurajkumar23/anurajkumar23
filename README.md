@@ -7,7 +7,7 @@
   <img src="https://media0.giphy.com/media/YuKbGGIYMXemhnub3q/200w.webp?cid=ecf05e47pc3uz7hutz9rj3cdeps3s8gn4ktfs74486g2kmyj&rid=200w.webp&ct=s" width="150"/>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anurajkumar23&label=Profile%20views&color=0e75b6&style=flat" alt="anurajkumar23" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anurajkumar23&label=Profile%20views&color=0e75b6&style=flat" alt="anurajkumar23" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Python**
 
