@@ -13,7 +13,7 @@
 </div>
 
  <h1 align="center">About Me :</h1>
-<h3 align="center">🧑‍💻I am a FULL STACK Web  Developer and competititve programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<h5 align="center">🧑‍💻I am a FULL STACK Web  Developer and competititve programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
 - :telescope: I'm sophomore at university institute of technology,THE UNIVERSITY OF BURDWAN. and I'm currently Learning Coding And web Devlopment.
   
@@ -27,7 +27,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZPH86ad328m6ZEHeF_nC2nAoUhRC1EmQ/view?usp=share_link](https://drive.google.com/file/d/1ZPH86ad328m6ZEHeF_nC2nAoUhRC1EmQ/view?usp=share_link)
 
-- ⚡ Fun fact **I think I am Funny😅**</h3>
+- ⚡ Fun fact **I think I am Funny😅**</h5>
 
 
 <h3 align="center">Connect with me:</h3>
