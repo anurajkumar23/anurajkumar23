@@ -52,7 +52,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurajkumar23&show_icons=true&locale=en" alt="anurajkumar23" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurajkumar23&show_icons=true&locale=en&layout=compact" alt="anurajkumar23" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurajkumar23&show_icons=true&locale=en" alt="anurajkumar23" /></p>
 <!--
 **anurajkumar23/anurajkumar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
