@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey,There I'm ANURAJ KUMAR
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">A passionate Software devloper from India</h3>
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/YuKbGGIYMXemhnub3q/200w.webp?cid=ecf05e47pc3uz7hutz9rj3cdeps3s8gn4ktfs74486g2kmyj&rid=200w.webp&ct=s" width="150"/>
