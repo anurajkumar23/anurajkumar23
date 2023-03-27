@@ -46,7 +46,7 @@
 
 
 <h3 align="center">Support:</h3>
-<p  align="justify" ><a href="https://www.buymeacoffee.com/https://github.com/anurajkumar23"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://github.com/anurajkumar23" /></a><a href="https://ko-fi.com/https://github.com/anurajkumar23"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://github.com/anurajkumar23" /></a></p><br><br>
+<p  align="justify" ><a href="https://www.buymeacoffee.com/https://github.com/anurajkumar23"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://github.com/anurajkumar23" /></a><a href="https://ko-fi.com/https://github.com/anurajkumar23"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://github.com/anurajkumar23" /></a></p><br><br>
 
 
 <h1 align="center"> :fire: My Stats:</h1>
