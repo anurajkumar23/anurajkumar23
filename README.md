@@ -46,15 +46,15 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://github.com/anurajkumar23"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://github.com/anurajkumar23" /></a><a href="https://ko-fi.com/https://github.com/anurajkumar23"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://github.com/anurajkumar23" /></a></p><br><br>
+<p  align="center" ><a href="https://www.buymeacoffee.com/https://github.com/anurajkumar23"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://github.com/anurajkumar23" /></a><a href="https://ko-fi.com/https://github.com/anurajkumar23"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://github.com/anurajkumar23" /></a></p><br><br>
 
 
 <h1 align="center"> :fire: My Stats:</h1>
 
-<p>&nbsp;<img style="align:center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurajkumar23&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="anurajkumar23" /></p>
+<p  align="center" >&nbsp;<img style="align:center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurajkumar23&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="anurajkumar23" /></p>
 
-<p><img style="align:center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurajkumar23&theme=vision-friendly-dark" alt="anurajkumar23" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurajkumar23&show_icons=true&locale=en&theme=vision-friendly-dark" alt="anurajkumar23" /></p>
+<p  align="center" ><img style="align:center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurajkumar23&theme=vision-friendly-dark" alt="anurajkumar23" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurajkumar23&show_icons=true&locale=en&theme=vision-friendly-dark" alt="anurajkumar23" /></p>
 <!--
 **anurajkumar23/anurajkumar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
