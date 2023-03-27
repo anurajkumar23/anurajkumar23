@@ -51,10 +51,10 @@
 
 <h1 align="center"> :fire: My Stats:</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurajkumar23&show_icons=true&locale=en&theme=vision-friendly-dark" alt="anurajkumar23" /></p>
+<p>&nbsp;<img style="align:center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurajkumar23&show_icons=true&locale=en&theme=vision-friendly-dark" alt="anurajkumar23" /></p>
 
 <p><img style="align:center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurajkumar23&theme=vision-friendly-dark" alt="anurajkumar23" /></p>
-<p><img style="align:center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurajkumar23&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="anurajkumar23" /></p>
+<p><img style="align:center" src="https://github-readme-stats.vercel.app/api?username=anurajkumar23&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="anurajkumar23" /></p>
 <!--
 **anurajkumar23/anurajkumar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
