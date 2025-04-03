@@ -1,84 +1,132 @@
+<h1 align="center">Hey There, I'm Anuraj Kumar 👋</h1>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
-<h1 align="center">Hey,There I'm ANURAJ KUMAR
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<h3 align="center">A passionate Software devloper from India</h3>
-
-<div id="header" align="center">
+<div align="center">
   <img src="https://media0.giphy.com/media/YuKbGGIYMXemhnub3q/200w.webp?cid=ecf05e47pc3uz7hutz9rj3cdeps3s8gn4ktfs74486g2kmyj&rid=200w.webp&ct=s" width="150"/>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anurajkumar23&label=Profile%20views&color=0e75b6&style=flat" alt="anurajkumar23" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anurajkumar23&label=Profile%20views&color=0e75b6&style=flat" alt="anurajkumar23" />
+</p>
+
 <div align="center">
   <img src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif" width="400"/>
 </div>
 
- <h1 align="center">:man_technologist:About Me :</h1>
-<h5 align="center">🧑‍💻I am a FULL STACK Web Developer and competititve programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h5>
+---
 
-- :man_technologist: I’m currently working at **Homeday** as a **Full Stack Developer**
-<h3>💻 Tech Stack</h3>
-- **Frontend**: React, Next.js, React Native, HTML, CSS, JavaScript,Taiwindcss,typescript
-- **Backend**: PHP, Laravel, MySQL
-- **Cloud & DevOps**: AWS
-
-<h3>🔥 What I Do </h3>
-- Develop and optimize web & mobile applications
-
-- Work with both frontend (React, Next.js, React Native) and backend (PHP, Laravel, MySQL)
-
-- Deploy and manage applications on AWS
-
-- :telescope:  Completed BE in **Computer Science and Engineering (CSE), 2024** from **University Institute of Technology, The University of Burdwan**  
-  
-- :seedling: I’m interested in Competitive Coding, Web Devlopment, Machine Learning and Cloud computing and recent technologies.
-  
-- 📚 In my free time, I do courses to upgrade my skills and earn certifications & swags.
-  
-- :mailbox:How to reach me: anurajkumar6294@gmail.com
-
-- 🌱 I’m currently learning **Machine Learning, Python**
-
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1TCd5pfLfXeBM-wlOZKhPmbg16guCN6MW/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am Funny😅**
-
-<br>
-<h2 align="center">Connect with me:</h2>
-
-  <p align="center">
-<a href="https://twitter.com/anurajkumar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anurajkumar23" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anurajkumar-software-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurajkumar-software-developer" height="30" width="40" /></a>
-<a href="https://codesandbox.com/anurajkumar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="anurajkumar23" height="30" width="40" /></a>
-<a href="https://fb.com/anurajkumar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anurajkumar23" height="30" width="40" /></a>
-<a href="https://instagram.com/anuraj_singh6294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuraj_singh6294" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anurajkumar6294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anurajkumar6294" height="30" width="40" /></a>
+<h2 align="center">🧑‍💻 About Me</h2>
+<p align="center">
+  I'm a <strong>Full Stack Web Developer</strong> and <strong>Competitive Programmer</strong> with a passion for building innovative solutions. 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </p>
 
-<h1 align="center">:hammer_and_wrench: Languages and Tools :</h1>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- 💼 Currently working at **Homeday** as a **Full Stack Developer**
+- 🎓 Completed **B.E. in Computer Science and Engineering (CSE), 2024** from **University Institute of Technology, The University of Burdwan**
+- 🌱 Learning **Machine Learning** and **Python**
+- 🔍 Interests: Competitive Coding, Web Development, Machine Learning, Cloud Computing
+- 📚 In my free time, I upskill through courses and earn certifications
+- 📧 Reach me at: **anurajkumar6294@gmail.com**
+- 📄 Check my resume: [Click Here](https://drive.google.com/file/d/1TCd5pfLfXeBM-wlOZKhPmbg16guCN6MW/view?usp=sharing)
+- ⚡ Fun Fact: I think I’m funny 😅
 
+---
 
-<h3 align="center">Support:</h3>
-<p  align="center" ><a href="https://www.buymeacoffee.com/https://github.com/anurajkumar23"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://github.com/anurajkumar23" /></a><a href="https://ko-fi.com/https://github.com/anurajkumar23"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://github.com/anurajkumar23" /></a></p><br><br>
+<h2 align="center">💻 Tech Stack</h2>
 
+### Frontend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
+</p>
 
-<h1 align="center"> :fire: My Stats:</h1>
+### Backend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+</p>
 
-<p  align="center" >&nbsp;<img style="align:center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurajkumar23&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="anurajkumar23" /></p>
+### Cloud & DevOps
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+</p>
 
-<p  align="center" ><img style="align:center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurajkumar23&theme=vision-friendly-dark" alt="anurajkumar23" /></p>
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurajkumar23&show_icons=true&locale=en&theme=vision-friendly-dark" alt="anurajkumar23" /></p>
-<!--
-**anurajkumar23/anurajkumar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h2 align="center">🔥 What I Do</h2>
+<p align="center">
+  - Build and optimize <strong>web & mobile applications</strong><br>
+  - Work with <strong>frontend</strong> (React, Next.js, React Native) and <strong>backend</strong> (PHP, Laravel, MySQL)<br>
+  - Deploy and manage applications on <strong>AWS</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">
+  <a href="https://twitter.com/anurajkumar23" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40"/></a>
+  <a href="https://linkedin.com/in/anurajkumar-software-developer" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
+  <a href="https://codesandbox.com/anurajkumar23" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox" height="30" width="40"/></a>
+  <a href="https://fb.com/anurajkumar23" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40"/></a>
+  <a href="https://instagram.com/anuraj_singh6294" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/anurajkumar6294" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40"/></a>
+</p>
+
+---
+
+<h2 align="center">🛠️ Languages and Tools</h2>
+<p align="center">
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
+  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+</p>
+
+---
+
+<h2 align="center">📊 My Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anurajkumar23&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="top-langs"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anurajkumar23&theme=vision-friendly-dark" alt="streak-stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anurajkumar23&show_icons=true&locale=en&theme=vision-friendly-dark" alt="github-stats"/>
+</p>
+
+---
+
+<h2 align="center">☕ Support Me</h2>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/https://github.com/anurajkumar23"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee"/></a>
+  <a href="https://ko-fi.com/https://github.com/anurajkumar23"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kofi"/></a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Thanks for visiting! Let’s build something amazing together! 🚀</strong>
+</p>
