@@ -14,7 +14,20 @@
 
  <h1 align="center">:man_technologist:About Me :</h1>
 <h5 align="center">🧑‍💻I am a FULL STACK Web Developer and competititve programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h5>
-  
+
+- :man_technologist: I’m currently working at **Homeday** as a **Full Stack Developer**
+<h3>💻 Tech Stack</h3>
+- **Frontend**: React, Next.js, React Native, HTML, CSS, JavaScript,Taiwindcss,typescript
+- **Backend**: PHP, Laravel, MySQL
+- **Cloud & DevOps**: AWS
+
+<h3>🔥 What I Do </h3>
+- Develop and optimize web & mobile applications
+
+- Work with both frontend (React, Next.js, React Native) and backend (PHP, Laravel, MySQL)
+
+- Deploy and manage applications on AWS
+
 - :telescope:  Completed BE in **Computer Science and Engineering (CSE), 2024** from **University Institute of Technology, The University of Burdwan**  
   
 - :seedling: I’m interested in Competitive Coding, Web Devlopment, Machine Learning and Cloud computing and recent technologies.
