@@ -15,7 +15,7 @@
  <h1 align="center">:man_technologist:About Me :</h1>
 <h5 align="center">🧑‍💻I am a FULL STACK Web Developer and competititve programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h5>
   
-- :telescope:  GrCompleted BE in **Computer Science and Engineering (CSE), 2024** from **University Institute of Technology, The University of Burdwan**  
+- :telescope:  Completed BE in **Computer Science and Engineering (CSE), 2024** from **University Institute of Technology, The University of Burdwan**  
   
 - :seedling: I’m interested in Competitive Coding, Web Devlopment, Machine Learning and Cloud computing and recent technologies.
   
