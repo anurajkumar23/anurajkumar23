@@ -15,7 +15,7 @@
  <h1 align="center">:man_technologist:About Me :</h1>
 <h5 align="center">🧑‍💻I am a FULL STACK Web Developer and competititve programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h5>
   
-- :telescope:  Graduated in **Computer Science and Engineering (CSE), 2024** from **University Institute of Technology, The University of Burdwan**  
+- :telescope:  GrCompleted BE in **Computer Science and Engineering (CSE), 2024** from **University Institute of Technology, The University of Burdwan**  
   
 - :seedling: I’m interested in Competitive Coding, Web Devlopment, Machine Learning and Cloud computing and recent technologies.
   
@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Python**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZPH86ad328m6ZEHeF_nC2nAoUhRC1EmQ/view?usp=share_link](https://drive.google.com/file/d/1ZPH86ad328m6ZEHeF_nC2nAoUhRC1EmQ/view?usp=share_link)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1TCd5pfLfXeBM-wlOZKhPmbg16guCN6MW/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny😅**
 
